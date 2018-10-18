@@ -1,7 +1,19 @@
 body{
   text-align: center
 }
+
 title{
   text-align: center
-  font-size: 60px
+}
+img{
+  border-radius: 20px
+}
+body {
+    background-color: #FFEBCD;
+ }
+a:hover {
+  background-color: #FF0000
+}
+*{
+  font-family: Georgia
 }
