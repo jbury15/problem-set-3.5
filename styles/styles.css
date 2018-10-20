@@ -5,6 +5,8 @@ body{
 
 img{
   border-radius: 20px
+  height: 100px
+  width: 100px
 }
 body {
     background-color: #FFEBCD;
@@ -16,5 +18,10 @@ a:hover {
   font-family: Georgia
 }
 .title{
-  text-align: center
+  text-align: center;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: bold;
+  font-color: black;
+  text-decoration: underline;
 }
