@@ -27,3 +27,6 @@ a:hover {
   font-color: black;
   text-decoration: underline;
 }
+  a{href} {
+		    font-weight: bold;
+	    }
